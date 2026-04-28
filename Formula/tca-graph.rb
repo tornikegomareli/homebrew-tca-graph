@@ -1,9 +1,9 @@
 class TcaGraph < Formula
   desc "Visualize and lint TCA Swift codebases"
   homepage "https://github.com/tornikegomareli/tca-graph"
-  url "https://github.com/tornikegomareli/tca-graph/releases/download/0.5.2/tca-graph-0.5.2-macos-arm64.tar.gz"
-  sha256 "2bf0c122e2245d97e9eccc38bfa07b74358d2d7461e829f0e7ebb00ba598fc1b"
-  version "0.5.2"
+  url "https://github.com/tornikegomareli/tca-graph/releases/download/0.5.3/tca-graph-0.5.3-macos-arm64.tar.gz"
+  sha256 "9f711d2e0c76bf82d5814a26a996a93d6c4acaf3ffdff6ecf4a584cb10d7db67"
+  version "0.5.3"
   license "MIT"
 
   depends_on :macos
